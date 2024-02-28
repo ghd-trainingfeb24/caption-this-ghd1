@@ -4,7 +4,7 @@ title: "Welcome to our slide deck!"
 ---
 
 Mmm, Ice Cream!
-NOTE: Eating too much ice cream can be unhealthy.
+NOTE: Eating ice cream is a fun way to celebrate a special occasion!
 
 ![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
 {: .center}
